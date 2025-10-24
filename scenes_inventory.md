@@ -21,12 +21,12 @@
 | 7 | 2 | Tim, Finn | Production planning | logistics, scale, risk |
 | 8 | 2 | Carly, Zach | Data analysis / success validation | evidence, confidence, secrecy |
 | 9 | 1 | Bud | Moral conflict intensifies | doubt, institutional loyalty, ethics |
-| 10 | 2 | Bud, O'Hearn | Corporate threat emerges | market competition, power play |
-| 11 | 3 | O'Hearn, Bud, Frank | Government-corporate collusion | manipulation, surveillance, control |
+| 10 | 2 | Bud, O'Hearn | **O'Hearn subplot begins** | market competition, power play |
+| 11 | 3 | O'Hearn, Bud, Frank | **Government-corporate collusion** | manipulation, surveillance, control |
 | 12 | 2 | Tim, Finn | Security tightening | paranoia, preparation |
 | 13 | 3 | Constance, Bud, Frank | Federal task force formation | institutional response, escalation |
 | 14 | 2 | Tim, Jessica | Warehouse inspection / protocol facility | refuge, secrecy, logistics |
-| 15 | 2 | Frank, Bud | O'Hearn targets Goodman | framing, corporate warfare |
+| 15 | 2 | Frank, Bud | **O'Hearn frames Goodman** | conspiracy, false accusation |
 | 16 | 1 | Jessica | Political positioning | alliance building |
 | 17 | 3 | Tim, Constance, Bud | Govt briefing / decision to raid | escalation, institutional power |
 | 18 | 1 | Tim | Surveillance alert / paranoia | threat recognition |
@@ -37,11 +37,11 @@
 | 23 | 2 | Zach, Tim | Warehouse tour / team unity | hope, momentum, stakes |
 | 24 | 3 | Fiona (x3) | **TABLET FACTORY RAID** | inciting incident, media spectacle, Georgia's trap |
 | 25 | 1 | Tim | News coverage / victory framed | narrative control, public support |
-| 26 | 5 | Bud (x5) | Post-raid crisis / O'Hearn's move | market collapse, moral crisis, Georgia visits |
+| 26 | 5 | Bud (x5) | **Post-raid crisis / O'Hearn's takeover** | market collapse, moral crisis, Georgia visits |
 | 27 | 1 | Georgia | Secret distribution meeting | network building, momentum |
 | 28 | 2 | Tim, Zach | Mass production underway | acceleration, confidence |
 | 29 | 1 | Bud | Family pressure / crisis deepens | personal cost, marriage strain |
-| 30 | 4 | Frank (x4) | Congressional testimony buildup | institutional defense, narrative battle |
+| 30 | 4 | Frank (x4) | Congressional testimony buildup / **O'Hearn's asset grab** | institutional defense, narrative battle |
 | 31 | 3 | Cray (x3) | Federal counter-strategy | government escalation, paranoia |
 | 32 | 1 | Fiona | Partnership stress / doubts | moral wavering |
 | 33 | 3 | Fiona (x3) | **SHERRY INTERROGATION** | government testing, domino theory, Fiona's crisis |
@@ -49,12 +49,12 @@
 | 35 | 2 | Tim, Carly | Spread accelerates | protocol distribution, momentum |
 | 36 | 2 | Bud, Cheryl | Family confrontation | marriage breaking down, conscience |
 | 37 | 2 | Cray, Bud | Pressure intensifies | moral coercion, institutional threat |
-| 38 | 1 | Frank | Corporate war escalates | market moves, power consolidation |
+| 38 | 1 | O'Hearn | **Corporate victory / personal emptiness** | triumph hollow, reckoning |
 | 39 | 2 | Fiona (x2) | Investigation dead ends | frustration, partnership breakdown |
 | 40 | 3 | Tim, Jessica, Finn | Protocol network thrives | distribution success, confidence |
 | 41 | 1 | Sherry | FDA testing / confinement | institutional violation, peace |
 | 42 | 2 | Cray, Fiona | Desperation tactics | moral boundary crossing |
-| 43 | 1 | O'Hearn | Personal reckoning | cost of ambition |
+| 43 | 1 | O'Hearn | **Personal reckoning / cost of ambition** | emptiness, moral isolation |
 | 44 | 3 | Frank, Cray (x2) | Congressional testimony | public battle for narrative |
 | 45 | 2 | Cray (x2) | Cray's breakdown / war declaration | institutional breakdown, desperation |
 | 46 | 1 | Fiona | Partnership collapse | final moral break |
@@ -67,6 +67,56 @@
 | 53 | 2 | Roberts, Bud | Congressional resolution | institutional acceptance |
 | 54 | 3 | Sherry, Tim, Georgia | Post-protocol world / reflection | integration, peace, new order |
 | 55 | 3 | Bud (x3) | Final integration / family / awakening | enlightenment, peace, love |
+
+---
+
+## RESTRUCTURING NOTES
+
+### **PACING ASSESSMENT**
+- **Chapters 1-8**: Slow burn protocol development. Cut by 40%. Keep thematic moments, trim philosophy.
+- **Chapters 9-21**: Slow burn institutional threat. Cut redundant strategy scenes. Keep only character-essential moments (Bud's crisis, Fiona's introduction).
+- **Chapter 22-27**: Raid sequence + public fallout. **ESSENTIAL.** Keep intact with minimal cuts.
+- **Chapter 28-35**: Acceleration phase. Compress slightly but preserve momentum.
+- **Chapter 36-50**: Systemic collapse. Strong pacing. Minimal cuts.
+- **Chapter 51-55**: Resolution. Keep intact.
+
+### **CHARACTER ARC ANCHORS**
+- **Bud**: Begins as willing accomplice (Ch 2) → Moral crisis (Ch 26) → Redemption (Ch 52-55)
+- **Fiona**: By-the-book agent (Ch 22-24) → Doubts (Ch 33) → Defection (Ch 51)
+- **Tim**: Idealist developer (Ch 1-3) → Strategist (Ch 14-28) → Fulfilled purpose (Ch 54)
+- **Georgia**: Business strategist (Ch 6-27) → Uses protocol (Ch 34) → Sanctuary guide (Ch 54)
+- **Sherry**: Prototype success (Ch 1) → Confined (Ch 41) → Free community (Ch 54)
+
+### **THEMATIC THROUGHLINES** (Revised)
+
+**PRIMARY CONFLICT LAYERS:**
+1. **Awakening vs. Institutional Control**: Chapters 1, 24, 33, 51, 54-55
+   - What the protocol does (Ch 1)
+   - Government tries to suppress it (Ch 24, 33)
+   - Institutions fail, enlightenment spreads (Ch 51, 54-55)
+
+2. **Systemic Collapse as Necessary Precondition**: Chapters 31, 33, 45-50
+   - Domino theory introduced (Ch 31, 33)
+   - Institutions fragment (Ch 45-50)
+   - New equilibrium emerges (Ch 54-55)
+
+3. **Personal Awakening vs. Institutional Loyalty**: Throughout
+   - Bud's arc (Ch 2, 9, 26, 36, 52-55)
+   - Fiona's arc (Ch 22, 33, 39, 46, 51)
+   - Sherry's persistence (Ch 1, 41, 54)
+
+**CHARACTER INTRIGUE (Not Structural Conflict):**
+- **O'Hearn / Cray / Fiona subplot**: Chapters 10-11, 15, 24-26, 30, 38, 43
+   - Function: Deepens complicity, shows how power operates
+   - Shows institutional corruption from inside (Fiona's defection arc)
+   - O'Hearn wins corporate battle but loses access to protocol (Ch 30, 38, 43)
+   - **Not a separate conflict layer**—illustrates institutional rot, not competing agenda
+
+**SECONDARY THEMES:**
+- **Love & Personal Connection**: Chapters 2, 26, 36, 52, 55
+   - Bud & Cheryl (marriage strain, reconciliation)
+   - Bud & son George (existential stakes, future)
+   - Personal relationships as grounding force amid systemic chaos
 
 ---
 
@@ -103,7 +153,7 @@
 
 ### CHAPTER 09-17: INSTITUTIONAL THREAT EMERGES
 - **09_S01** | Bud | Office | Moral crisis escalates | *doubt, complicity*
-- **10_S01** | Bud | Meeting | O'Hearn's market strategy | *corporate_warfare, takeover*
+- **10_S01** | Bud | Meeting | O'Hearn's market strategy | *corporate_intrigue, takeover*
 - **10_S02** | O'Hearn | Office | Predatory positioning | *ambition, ruthlessness*
 - **11_S01** | O'Hearn | Office | Federal contact established | *collusion, corruption*
 - **11_S02** | Bud | Office | O'Hearn proposes action | *moral_boundary, complicity*
@@ -135,11 +185,11 @@
 ### CHAPTER 24: **INCITING INCIDENT - TABLET FACTORY RAID** ⭐
 - **24_S01** | Fiona | SUV en route | Gile approaches facility | *tension, anticipation* | Raid begins
 - **24_S02** | Fiona | Tablet factory | Georgia's spectacle unfolds | *govt_embarrassment, media_trap* | **KEY TURNING POINT**
-- **24_S03** | Fiona | SUV debrief | Realization of setup / O'Hearn's move | *corporate_warfare, betrayal* | Gile sees the game
+- **24_S03** | Fiona | SUV debrief | Realization of setup / **O'Hearn's takeover move visible** | *betrayal, complicity_revealed* | Gile sees the game
 
 ### CHAPTER 25-27: PUBLIC REVELATION & ACCELERATION
 - **25_S01** | Tim | News broadcast | Public victory / narrative control | *triumph, momentum*
-- **26_S01** | Bud | Home | O'Hearn's market move / marriage strain | *crisis, complicity*
+- **26_S01** | Bud | Home | **O'Hearn's market move** / marriage strain | *crisis, complicity*
 - **26_S02** | Bud | Office | Stock collapse realization | *systemic_damage, moral_crisis*
 - **26_S03** | Bud | Cheryl conversation | Wife confronts Bud | *personal_cost, conscience*
 - **26_S04** | Bud | Georgia arrives | Georgia visits Bud's loft | *enlightenment_model, temptation*
@@ -150,16 +200,17 @@
 - **28_S01** | Tim | Warehouse | Mass production underway | *acceleration, victory*
 - **28_S02** | Zach | Warehouse | AI optimization / confidence | *technical_triumph, responsibility*
 - **29_S01** | Bud | Home | Cheryl leaves / personal collapse | *marriage_breakdown, isolation*
-- **30_S01** | Frank | Office | Congressional testimony prep | *narrative_battle, defense*
-- **30_S02** | Frank | Meeting | Strategy coordination | *institutional_alignment, desperation*
-- **30_S03** | Frank | Congress | Testimony begins | *public_battle, institutional_power*
-- **30_S04** | Frank | Congress | Senator Yost counters | *narrative_collapse, powerlessness*
+- **30_S01** | Zach | Distribution | **O'Hearn's empty victory** | *corporate_warfare_resolution, irony*
+- **30_S02** | Frank | Office | Congressional testimony prep | *narrative_battle, defense*
+- **30_S03** | Frank | Meeting | Strategy coordination | *institutional_alignment, desperation*
+- **30_S04** | Frank | Congress | Testimony begins | *public_battle, institutional_power*
+- **30_S05** | Frank | Congress | Senator Yost counters | *narrative_collapse, powerlessness*
 - **31_S01** | Cray | Office | Desperation mounting | *systemic_fear, paranoia*
-- **31_S02** | Cray | Meeting | Dominoes theory / prevention strategy | *systemic_risk, rationalization*
+- **31_S02** | Cray | Meeting | **Dominoes theory** / prevention strategy | *systemic_risk, rationalization*
 - **31_S03** | Cray | Office | War declaration | *escalation, moral_corruption*
 - **32_S01** | Fiona | Office | Partnership stress emerges | *doubt, solidarity_breaking*
 - **33_S01** | Fiona | FDA office | Sherry interrogation begins | *institutional_violation, testing*
-- **33_S02** | Fiona | FDA office | Brain scan analysis | *domino_theory, destabilization_fear*
+- **33_S02** | Fiona | FDA office | Brain scan analysis / **domino theory confirmed** | *destabilization_fear, science*
 - **33_S03** | Fiona | FDA office | Fiona's crisis deepens | *moral_boundary_crossed, doubt*
 - **34_S01** | Georgia | Office | Georgia uses protocol / enlightenment | *transcendence, exit*
 - **34_S02** | Georgia | Elevator | Georgia leaves for sanctuary | *escape, peace*
@@ -171,7 +222,7 @@
 - **36_S02** | Cheryl | Home | Bud & Cheryl confrontation | *marriage_collapse, awakening_fear*
 - **37_S01** | Cray | Office | Moral coercion of Fiona | *institutional_pressure, corruption*
 - **37_S02** | Bud | Headquarters | Cray pressures Bud | *institutional_threat, moral_boundary*
-- **38_S01** | O'Hearn | Office | Corporate victory / personal emptiness | *triumph_hollow, reckoning*
+- **38_S01** | O'Hearn | Office | **Corporate victory / personal emptiness** | *triumph_hollow, reckoning*
 - **39_S01** | Fiona | Office | Investigation dead end | *frustration, partnership_strain*
 - **39_S02** | Fiona | Car | Partnership collapses | *moral_defection_begins, doubt*
 - **40_S01** | Tim | Distribution network | Protocol spreads unstoppably | *inevitability, victory*
@@ -182,7 +233,7 @@
 - **42_S02** | Fiona | Investigation | Coercive interview technique | *institutional_violence, partnership_end*
 
 ### CHAPTER 43-50: SYSTEMS COLLAPSE & RECKONING
-- **43_S01** | O'Hearn | Personal moment | O'Hearn's cost realized | *emptiness, ambition_hollow*
+- **43_S01** | O'Hearn | Personal moment | **O'Hearn's cost realized** | *emptiness, ambition_hollow*
 - **44_S01** | Frank | Congress | Major testimony | *narrative_battle, institutional_defense*
 - **44_S02** | Cray | Congress | Systemic risk argument | *institutional_fear, desperation*
 - **44_S03** | Frank | Congress | Testimony ends in failure | *institutional_defeat, narrative_lost*
@@ -191,61 +242,29 @@
 - **46_S01** | Fiona | Investigation | Fiona walks away | *moral_victory, defection*
 - **47_S01** | Guy | Surveillance | Protocol spread inevitable | *futility, systemic_change*
 - **47_S02** | Marcus | School | Enlightenment spreading | *transformation, awakening*
-- **47_S03** | Fiona | Observation | Witnessing transformation | *spiritual_recognition, peace*
-- **48_S01** | Constance | Office | System collapse recognition | *institutional_failure, surrender*
-- **48_S02** | Bud | Office | Bud realizes game over | *moral_clarity, relief*
-- **49_S01** | Cray | Office | Cray confronts O'Hearn | *power_loss, regret*
-- **49_S02** | Frank | Office | Corporate victory pyrrhic | *hollow_triumph, emptiness*
-- **50_S01** | Constance | Office | Government surrender begins | *systemic_collapse, peace*
-- **50_S02** | Constance | Observation | Constance's transformation | *enlightenment, acceptance*
+- **47_S03** | Fiona | Observation | Witnessing transformation | *spiritual_recognition, hope*
+- **48_S01** | Constance | Office | Institutional failure acknowledged | *systemic_breakdown, surrender*
+- **48_S02** | Bud | Office | Bud & Constance final conversation | *reckoning, institutional_end*
+- **49_S01** | Cray | Office | Cray's final isolation | *power_loss, regret*
+- **49_S02** | Frank | Meeting | Frank & Cray confrontation | *betrayal_acknowledged, moral_accounting*
+- **50_S01** | Constance | Virtual meeting | Government paralysis | *institutional_collapse, futility*
+- **50_S02** | Constance | Alone | Personal reckoning | *acceptance, powerlessness*
 
-### CHAPTER 51-55: TRANSFORMATION & INTEGRATION ⭐
-- **51_S01** | Fiona | Car | Fiona defects fully | *moral_clarity, redemption*
-- **51_S02** | Fiona | Car | Fiona's doubt becomes doubt | *awakening_begins, doubt*
-- **51_S03** | Fiona | New York | Fiona seeks enlightenment | *transformation, awakening_journey*
-- **52_S01** | Bud | Home | Bud & Georgia reconciliation | *forgiveness, temptation*
-- **52_S02** | Bud | Home | Georgia offers headset | *awakening_moment, choice*
-- **52_S03** | Bud | Baby's room | Bud's final meditation on change | *prophecy_fulfilled, acceptance*
-- **53_S01** | Roberts | Congress | Congressional resolution | *institutional_acceptance, surrender*
-- **53_S02** | Bud | Congress | Bud testifies for enlightenment | *redemption, moral_clarity*
-- **54_S01** | Sherry | Sanctuary | Post-protocol community | *peace, integration*
-- **54_S02** | Tim | Sanctuary | Tim's fulfillment | *purpose_achieved, responsibility*
-- **54_S03** | Georgia | Sanctuary | Georgia's peace | *transcendence, rest*
-- **55_S01** | Bud | Home office | Bud's final choice | *awakening, love*
-- **55_S02** | Bud | Home | Bud & Cheryl reunification | *marriage_healing, enlightenment*
-- **55_S03** | Bud | Baby's room | Bud's awakening complete | *love, peace, new_world*
-
----
-
-## KEY INSIGHTS FOR RESTRUCTURING
-
-### **SCENES SERVING THE NEW OPENING ACT (Chapters 1-10 of restructured version)**
-These should lead with Chapter 24 raid, then backfill strategic exposition:
-
-- **24_S01, 24_S02, 24_S03** → Act I, Scene 1-3 (Replace current Ch 1)
-- **22_S01** → Insert before 24 (raid planning)
-- **23_S01, 23_S02** → Warehouse tour / team dynamics (pre-raid tension)
-- **02_S01, 02_S02** → Bud's moral crisis (cut to 5 pages, establish stakes)
-- **26_S01-S04** → Georgia's response / market chaos
-- **33_S01-S03** → Govt desperation (domino theory)
-
-### **SCENES TO COMPRESS OR CUT**
-- Chapters 1-8: Too much introspection. Cut by 40%. Keep thematic moments, trim philosophy.
-- Chapters 9-21: Slow burn. Cut redundant strategy scenes. Keep only character-essential moments.
-- Chapter 29-32: Government side shows desperation well but overlaps. Compress to 3 scenes.
-
-### **CHARACTER ARC ANCHORS**
-- **Bud**: Begins as willing accomplice (Ch 2) → Moral crisis (Ch 26) → Redemption (Ch 52-55)
-- **Fiona**: By-the-book agent (Ch 22-24) → Doubts (Ch 33) → Defection (Ch 51)
-- **Tim**: Idealist developer (Ch 1-3) → Strategist (Ch 14-28) → Fulfilled purpose (Ch 54)
-- **Georgia**: Business strategist (Ch 6-27) → Uses protocol (Ch 34) → Sanctuary guide (Ch 54)
-- **Sherry**: Prototype success (Ch 1) → Confined (Ch 41) → Free community (Ch 54)
-
-### **THEMATIC THROUGHLINES**
-- **Awakening vs. Institutional Control**: Chapters 1, 24, 33, 51, 54-55
-- **Corporate Warfare Disguised as Governance**: Chapters 10-11, 15, 24-26, 38
-- **Domino Theory / Systemic Collapse**: Chapters 31, 33, 45-50
-- **Love & Personal Connection**: Chapters 2, 26, 36, 52, 55
+### CHAPTER 51-55: RESOLUTION & INTEGRATION
+- **51_S01** | Fiona | Investigation site | Fiona's awakening begins | *spiritual_transformation, clarity*
+- **51_S02** | Fiona | Protocol session | Fiona uses protocol | *enlightenment, peace*
+- **51_S03** | Fiona | Gile reunion | Partnership restored / defection complete | *redemption, solidarity*
+- **52_S01** | Bud | Office | Bud's final crisis | *despair, breakthrough_approaching*
+- **52_S02** | Bud | Home | Bud & Cheryl reconciliation begins | *forgiveness, love*
+- **52_S03** | Bud | Georgia's sanctuary | Bud meets Georgia / enlightenment journey | *guidance, transformation*
+- **53_S01** | Roberts | Congress | Congressional resolution / acceptance | *institutional_surrender, new_order*
+- **53_S02** | Bud | Congressional hearing | Bud testifies / redemption | *truth_telling, closure*
+- **54_S01** | Sherry | Sanctuary | Sherry's community thriving | *enlightenment_integrated, peace*
+- **54_S02** | Tim | Distribution hub | Tim reflects on purpose fulfilled | *satisfaction, duty_complete*
+- **54_S03** | Georgia | Sanctuary | Georgia guides new arrivals | *mentorship, continuity*
+- **55_S01** | Bud | Sanctuary | Bud's protocol completion | *enlightenment, liberation*
+- **55_S02** | Bud | Family reunion | Bud, Cheryl, George together | *love, healing, hope*
+- **55_S03** | Bud | Final reflection | Bud's integration complete | *peace, acceptance, new_beginning*
 
 ---
 
